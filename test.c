@@ -1,6 +1,5 @@
 #include<stdio.h>
 
-
 void fun(int var,int var1)
 {
     int size=&var1-&var;
